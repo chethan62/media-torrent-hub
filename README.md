@@ -71,3 +71,17 @@ Self-hosted: Jackett (systemd, /opt/Jackett) + qBittorrent 5.3 (jackettdedup + j
 
 ## Raw collections
 - [docs/githubawesome-trending-2026-10.md](docs/githubawesome-trending-2026-10.md) — full GitHub-Trending lists (Oct 2026, ~480 rows) as captured; only the media/TV/video picks above were vetted, treat the rest as unverified.
+
+## Terminal & CLI streaming
+| Link | What it is | ★ |
+|------|-----------|---|
+| [mov-cli/mov-cli](https://github.com/mov-cli/mov-cli) | Watch movies/series from your terminal (plugin ecosystem) | 1.3k |
+| [pystardust/ani-cli](https://github.com/pystardust/ani-cli) | The classic CLI anime scrapper → mpv | 14k |
+| [sdaqo/anipy-cli](https://github.com/sdaqo/anipy-cli) | Anime in terminal, watch + download, history & profiles | 0.5k |
+| [webtorrent/webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) | Stream torrents in your player over BitTorrent | 1.4k |
+| [mafintosh/peerflix](https://github.com/mafintosh/peerflix) | The original streaming-torrent-to-VLC/mpv CLI | 6.3k |
+| [streamlink/streamlink](https://github.com/streamlink/streamlink) | Pipe live streams (YouTube/Twitch/…) into any player | 12k |
+| [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) | Terminal YouTube player/download, no API key | 8.8k |
+| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | The downloader everything depends on | 206k |
+| [Aanok/jftui](https://github.com/Aanok/jftui) | Jellyfin server in your terminal | 0.2k |
+| [mpv-player/mpv](https://github.com/mpv-player/mpv) | The player all of the above pipe into | 38k |
