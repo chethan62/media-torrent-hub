@@ -85,3 +85,4 @@ Self-hosted: Jackett (systemd, /opt/Jackett) + qBittorrent 5.3 (jackettdedup + j
 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | The downloader everything depends on | 206k |
 | [Aanok/jftui](https://github.com/Aanok/jftui) | Jellyfin server in your terminal | 0.2k |
 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | The player all of the above pipe into | 38k |
+| [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui) | Find, download & stream movies/TV/live TV in a TUI — kitty/Sixel poster art, resume & library, local-only, prebuilt Linux x64 in Releases | 2.8k |
