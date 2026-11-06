@@ -43,3 +43,31 @@ Curated links — movies, series, anime and torrent tooling. Repo links verified
 
 ## My stack notes
 Self-hosted: Jackett (systemd, /opt/Jackett) + qBittorrent 5.3 (jackettdedup + jackett.json search plugins) · MDM/MDM-cli + tork CLI · Risuko app. Checked via `tork doctor`: Knaben ✓ Nyaa ✓.
+
+## TV & viewing apps (from GitHub trending, vetted 2026-11)
+| Link | What it is | ★ |
+|------|-----------|---|
+| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | Debloat any Android/Google TV over Wi-Fi, Apple-TV-style home | 53k |
+| [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | Ad-free home screen for Google TV/webOS/Tizen, one-button undo | 6k |
+| [man15h/tellyscope](https://github.com/man15h/tellyscope) | Debloat/install/browse Android TV from your phone, no root | 1.6k |
+| [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | Claude/Codex-driven TV clean-up prompt + tiny home screen | 2.2k |
+| [humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv) | Fire TV declutter over ADB, reversible, with own home screen | 2k |
+| [xMazaki/unbloat-android-tv](https://github.com/xMazaki/unbloat-android-tv) | Slim Android TV, reversible double-click | 0.3k |
+| [Seagey/couch-tv](https://github.com/Seagey/couch-tv) | Own Google TV home + phone remote (+optional Claude) | 0.2k |
+| [piermark/omarchytv](https://github.com/piermark/omarchytv) | Omarchy-style launcher ecosystem across TV/phone/desktop | 0.5k |
+| [aradhyas8/Plume_Launcher](https://github.com/aradhyas8/Plume_Launcher) | 0.4 MB ad-free Android TV launcher | 0.3k |
+
+## AI video creation & editing (agents)
+| Link | What it is | ★ |
+|------|-----------|---|
+| [openfilm/openfilm](https://github.com/openfilm/openfilm) | Turn any coding agent into a video agent + editor | 5k |
+| [academa-labs/manimgx](https://github.com/academa-labs/manimgx) | Manim-compatible math/3D video engine on Rust GPU core | 2.6k |
+| [soumatheusgomes/editonny](https://github.com/soumatheusgomes/editonny) | Local video editing through conversation | 0.8k |
+| [appariciojunior/video-editor-skills](https://github.com/appariciojunior/video-editor-skills) | Claude-first-pass editing in DaVinci Resolve (CC BY-NC) | 0.4k |
+| [win4r/video-director](https://github.com/win4r/video-director) | Skill: direct/verify code-rendered videos (HTML→MP4) | 0.4k |
+| [sitor-ai/frametell](https://github.com/sitor-ai/frametell) | AI director agent → explainer videos, local-first | 0.5k |
+| [petergyang/video-short](https://github.com/petergyang/video-short) | Raw recording → polished short with agent | 0.2k |
+| [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph) | Programmatic video engine for agents | 0.5k |
+
+## Raw collections
+- [docs/githubawesome-trending-2026-10.md](docs/githubawesome-trending-2026-10.md) — full GitHub-Trending lists (Oct 2026, ~480 rows) as captured; only the media/TV/video picks above were vetted, treat the rest as unverified.
